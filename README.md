@@ -10,3 +10,14 @@ Code Check in Guidelines:
 3. Test your changes well.
 4. Raise a Pull Request against the main branch. Add rest of the team members as the reviewer.
 5. Merge it with the main branch when you have an approval.
+
+Code Progress:
+1. The Specifications of each column is now known.
+2. Found the columns that have missing data.
+3. For this particular data set we see that NewMarketSegment, TradeDate, Close, IssuedShares and MarketCapitalization these 5 columns has missing values.
+4. We can see the count of null values as follows:
+      NewMarketSegment->  645
+      TradeDate-> 296
+      Close-> 296
+      IssuedShares-> 296
+      MarketCapitalization-> 296 
