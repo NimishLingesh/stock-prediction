@@ -1,9 +1,6 @@
 # stock-prediction
 
-Dataset: https://www.kaggle.com/competitions/jpx-tokyo-stock-exchange-prediction/data
-
 Pre-processing Collab Notebook: https://colab.research.google.com/drive/13bFdJJmVMlNA3L4ZUi_zbEaFZ21UjedG#scrollTo=0JldAbH11VNn
-
 
 Code Check in Guidelines:
 
@@ -22,4 +19,5 @@ Code Progress:
       TradeDate-> 296
       Close-> 296
       IssuedShares-> 296
-      MarketCapitalization-> 296 
+      MarketCapitalization-> 296
+5. We now have to fill in the missing values depending on the data.     
