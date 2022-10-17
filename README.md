@@ -1,7 +1,9 @@
 # stock-prediction
 
 Dataset: https://www.kaggle.com/competitions/jpx-tokyo-stock-exchange-prediction/data
-Pre-processing Collab Notebook: https://colab.research.google.com/drive/1XPo9WH5ERwIh1R5LAtZCYKiYP93ox5dm?usp=sharing
+
+Pre-processing Collab Notebook: https://colab.research.google.com/drive/13bFdJJmVMlNA3L4ZUi_zbEaFZ21UjedG#scrollTo=0JldAbH11VNn
+
 
 Code Check in Guidelines:
 
