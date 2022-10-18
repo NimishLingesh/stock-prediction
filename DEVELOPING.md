@@ -46,3 +46,9 @@ To https://github.com/NimishLingesh/stock-prediction.git
 
 ## 3. Create a PR in the github UI. Add other Reviewers
 
+## 4. Update the main branch to be in sync with the updates made by the other team members
+```
+git checkout main
+git pull origin main
+```
+
