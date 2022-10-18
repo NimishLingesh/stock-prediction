@@ -6,8 +6,10 @@
 % git checkout dir_restructure
 ```
 ## 2. Make necessary changes, commit, push
-> git commit -a -m "directory restructuring"
-> git push origin dir_restructure
+```
+git commit -a -m "directory restructuring"
+git push origin dir_restructure
+```
 ```
 spartan@IMS-073MBA stock-prediction % git status
 On branch dir_restructure
@@ -49,9 +51,10 @@ To https://github.com/NimishLingesh/stock-prediction.git
 ## 3. Create a PR in the github UI. Add other Reviewers
 
 ## 4. Once the PR is merged, please update your main branch locally
-> git checkout main
-> git pull origin main
-
+```
+git checkout main
+git pull origin main
+```
 Eg:
 ```
 spartan@IMS-073MBA stock-prediction % git branch
